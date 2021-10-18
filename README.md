@@ -1,2 +1,2 @@
-# Hirolo-Project
-This project is from Hirolo company
+# Herolo-Project
+This project is from Heirolo company
